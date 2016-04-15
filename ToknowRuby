@@ -1,0 +1,26 @@
+ToknowRuby
+
+
+	1.# is use for coomments
+
+	everything is an object
+
+	puts To put string to console
+	p Print out internal representation of an object
+	
+	about naming 
+
+
+
+		variables
+			lowercase or snake_case if multiple words
+
+
+		constants
+
+			ALL_CAPS or FirstCap
+
+
+		classes(Modules)
+			CamelCase
+
