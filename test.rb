@@ -18,4 +18,5 @@ unless a==6
 	puts "a is not 6"
 end
 #trytouseoneliner
-puts "nnc" if i==2 and account == 6000
+puts "nnc" if i==2 and account == 600
+
