@@ -8,25 +8,48 @@
 
 #puts "This will run"
 
+
+# type_of_people = 10
+# x = "There are #{type_of_people} type of type_of_people."
+# binary = "binary"
+# do_not = "don't"
+# y = "Those who knpe #{binary} and who #{do_not}"
+
+# puts x
+# puts y
+
+# puts "I said: #{x}"
+# puts "I also said : '#{y}'" 
+
+# hilarious = false
+# joke_evalution  = "Isn't that joke so funny? #{hilarious}"
+
+# puts joke_evalution
+
+# w = "This is the left side of ..."
+# e = "a string with right side ."
+
+# puts w + e
+# #########################
+
 # 
-type_of_people = 10 
-x = "There are #{type_of_people} type of type_of_people."
-binary = "binary"
-do_not = "don't"
-y = "Those who knpe #{binary} and who #{do_not}"
 
-puts x
-puts y
+# require 'open-uri'
 
-puts "I said: #{x}"
-puts "I also said : '#{y}'" 
+# open("http://www.google.com") do |f|
+# 	f.each_line { |line| p line }
+# 	puts f.base_uri
+# 	puts f.content_type
+# 	puts f.charset
+# 	puts f.content_encoding
+# 	puts f.last_modified
+# end
 
-hilarious = false
-joke_evalution  = "Isn't that joke so funny? #{hilarious}"
 
-puts joke_evalution
 
-w = "This is the left side of ..."
-e= "a string with right side ."
+first, second, third = ARGV
 
-puts w + e
+puts "The script is called: #{$0}"
+puts "Your first variable is: #{first}"
+puts "Your second variable is: #{second}"
+puts "Your third variable is #{third}"
