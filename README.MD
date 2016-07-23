@@ -1,1 +1,1 @@
-        Delete All
+        Deleted All
