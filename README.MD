@@ -1,4 +1,0 @@
-
-
-
-Practice for Ruby

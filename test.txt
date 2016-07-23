@@ -1,7 +1,0 @@
-the first line of the file
-the second line of the file
-the third line of the file
-the forth line of the file
-the fifth line of the file
-the sixthline of the file
-
